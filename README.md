@@ -7,7 +7,7 @@ This is the amount of Food required for the current day. If you have more days p
 The mod already calculates that for you!
 
 ## Yearly Food Requirement
-This is an estimate for a 12 month period. Since animals need more food as they grow up, this will not necessarily be 12*daysPerMonth*dailyFoodRequirement.
+This is an estimate for a 12 month period. Since animals need more food as they grow up, this will not necessarily be 12 x daysPerMonth x dailyFoodRequirement.
 Instead the mod simulates the whole year and calculates the requirement for each month, with cows growing up.
 New births are not included in this estimate.
 
