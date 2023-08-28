@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="77">
+    <author>BigFood2307</author>
+    <version>1.0.0.0</version>
+
+    <title>
+        <en>Animal Food Calculator</en>
+        <de>Tierfutterrechner</de>
+    </title>
+
+    <description>
+        <en>
+			<![CDATA[
+Shows the estimated food usage per pen for one day and one year.
+The daily estimate respects the days per month you currently use.
+The yearly estimate includes the fact, that animals will eat more when grown up.
+
+Supports MaizePlus and Enhanced Animal System.
+
+Have fun feeding!
+]]>	
+        </en>
+		<de>
+			<![CDATA[
+Zeigt die benötigte Futtermenge pro Stall für einen Tag und ein Jahr.
+Die tägliche Schätzung nutzt die aktuellen Tage pro Monat.
+Die jährliche Schätzung beinhaltet das Ansteigen der Futtermenge mit dem Alter der Tiere.
+
+Funktioniert mit MaizePlus und Enhanced Animal System.
+
+Viel Spaß beim Füttern!
+]]>	
+		</de>
+	</description>
+        
+	<l10n filenamePrefix="i18n/locale"/>
+		
+    <iconFilename>icon_AnimalFoodCalculator.dds</iconFilename>
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="AnimalFoodCalculator.lua"/>
+    </extraSourceFiles>
+</modDesc>

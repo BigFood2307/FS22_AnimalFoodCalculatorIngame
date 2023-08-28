@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<locale>de</locale>
+    <translationContributors>BigFood2307</translationContributors>
+    <texts>
+        <text name="AFC_DailyLabel"                     text="Tägliches Futter" />
+        <text name="AFC_YearlyLabel"                    text="Jährliches Futter" />
+    </texts>
+</l10n>
