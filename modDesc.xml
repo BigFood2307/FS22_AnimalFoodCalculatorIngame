@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="77">
     <author>BigFood2307</author>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
 
     <title>
         <en>Animal Food Calculator</en>
@@ -18,6 +18,13 @@ The yearly estimate includes the fact, that animals will eat more when grown up.
 Supports MaizePlus and Enhanced Animal System.
 
 Have fun feeding!
+
+Change log:
+
+*v1.0.0.1
+ - Improved compatibility with Enhanced Animal System v2.2.0.0.
+ - Lactation Cycles are now included when calculating food amounts.
+ - 1 Year amount is still just a (good) approximation, since insemination could fail.
 ]]>	
         </en>
 		<de>
@@ -29,6 +36,11 @@ Die jährliche Schätzung beinhaltet das Ansteigen der Futtermenge mit dem Alter
 Funktioniert mit MaizePlus und Enhanced Animal System.
 
 Viel Spaß beim Füttern!
+
+*v1.0.0.1
+ - Vermesserte Kompatibilität mit Enhanced Animal System v2.2.0.0.
+ - Laktationszyklen werden nun beim Berechnen der Futtermenge berücksichtigt.
+ - 1 Jahres Vorhersage ist dennoch eine Annäherung, da die Besamung fehlschlagen könnte.
 ]]>	
 		</de>
 	</description>
