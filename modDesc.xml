@@ -24,7 +24,7 @@ Change log:
 *v1.0.0.1
  - Improved compatibility with Enhanced Animal System v2.2.0.0.
  - Lactation Cycles are now included when calculating food amounts.
- - 1 Year amount is still just a (good) approximation, since insemination could fail.
+ - 1 Year amount is still just a (good) approximation, since veterinary reproduction could fail.
 ]]>	
         </en>
 		<de>
@@ -40,7 +40,7 @@ Viel Spaß beim Füttern!
 *v1.0.0.1
  - Vermesserte Kompatibilität mit Enhanced Animal System v2.2.0.0.
  - Laktationszyklen werden nun beim Berechnen der Futtermenge berücksichtigt.
- - 1 Jahres Vorhersage ist dennoch eine Annäherung, da die Besamung fehlschlagen könnte.
+ - 1 Jahres Vorhersage ist dennoch eine Annäherung, da die Vermehrung fehlschlagen könnte.
 ]]>	
 		</de>
 	</description>
