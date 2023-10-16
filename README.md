@@ -13,5 +13,5 @@ New births are not included in this estimate.
 
 ## More advanced calculations
  
-For even more information and more freedom in what to calculate, check out my standalone calculator here on modhub:  
+For even more information and more freedom in what to calculate, check out my standalone calculator here on github:  
 https://github.com/BigFood2307/FS22_AnimalFoodCalculator
